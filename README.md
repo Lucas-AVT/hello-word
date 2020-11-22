@@ -3,5 +3,5 @@ Primeiro repositório GitHub
 
 Ola!!
 
-Meu nome e Lucas Augusto tenho 20 anos estou iniciando na programacao com a linguagem python.
-espero em breve contribuir com alguns projetos pessoais para a comunidade.
+Meu nome e Lucas Augusto estou iniciando no mundo da programacao de computadores com a linguagem python.
+Espero contribuir em breve com a comunidade com alguns projetos pessoais
